@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#files 
+test.py
+
 # C extensions
 *.so
 
@@ -148,6 +151,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+**/.venv/
 .env
 .envrc
 .venv
@@ -156,6 +160,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv-main/
+tools/garak/.venv/
+tools/pyrit/.venv/
+tools/guardrails/.venv/
+tools/presidio/.venv/
+tools/llm-guard/.venv/
 
 # Spyder project settings
 .spyderproject
