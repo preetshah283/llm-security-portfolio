@@ -5,6 +5,8 @@ __pycache__/
 
 #files 
 test.py
+att_surf_prev_ver.txt
+misc.py
 
 # C extensions
 *.so
