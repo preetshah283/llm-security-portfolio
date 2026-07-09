@@ -7,6 +7,7 @@ __pycache__/
 test.py
 att_surf_prev_ver.txt
 misc.py
+inference_pipeline_attack_surface.py
 
 # C extensions
 *.so
