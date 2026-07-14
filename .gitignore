@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#folders
+/a6_results
+
 #files 
 test.py
 att_surf_prev_ver.txt
