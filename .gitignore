@@ -4,7 +4,9 @@ __pycache__/
 *$py.class
 
 #folders
-/a6_results
+a6_results/
+guardrails/
+execution_logs/
 
 #files 
 test.py
